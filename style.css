@@ -1,0 +1,30 @@
+.product-search .custom-select-radius select{
+   border-top-left-radius: 30px !important;
+   border-bottom-left-radius: 30px !important;
+}
+
+.product-search .custom-input-radius{
+   border-top-right-radius: 30px !important;
+   border-bottom-right-radius: 30px !important;
+}
+
+.product-search button[type="submit"] {
+   background-color: rgb(255, 50, 77) !important;
+}
+.product-search button i {
+   color: #ffffff !important;
+}
+
+.product-search .input-group-btn {
+   right: 5px !important;
+}
+
+.middler-header ul.nav a, i  {
+   color: #000000 !important;
+}
+
+.middler-header ul.nav li span.wishlist_0, span.cart_count {
+   top: -10px;
+   right: -12px;
+   background-color: #FF324D;
+}
