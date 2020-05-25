@@ -28,3 +28,27 @@
    right: -12px;
    background-color: #FF324D;
 }
+
+.bottom-header ul.navbar-nav li:first-child a{
+   color: #FF324D !important;
+}
+
+.bottom-header ul.navbar-nav li:hover a {
+   color: #FF324D !important;
+}
+
+.bottom-header .categories-btn {
+   background-color: #FF324D;
+   border: 1px solid #FF324D;
+   cursor:default;
+}
+
+.bottom-header .categories-btn:hover {
+   background-color: #FF324D !important;
+   border: 1px solid #FF324D !important;
+}
+
+.bottom-header .contact-phone i {
+   font-size: 1.5rem !important;
+   color: #FF324D !important;
+}
